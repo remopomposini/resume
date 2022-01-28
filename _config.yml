@@ -14,7 +14,7 @@ resume_name:                    "Remo Pomposini"
 resume_title:                   "Technical Manager"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "remo.pomposinj@gmail.com"
+resume_contact_email:           "remo.pomposini@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "555-7334"
@@ -38,7 +38,7 @@ resume_section_education:       true
 #resume_section_projects:        true
 resume_section_skills:          true
 #resume_section_recognition:     true
-resume_section_links:           true
+#resume_section_links:           true
 #resume_section_associations:    true
 resume_section_interests:       true
 
